@@ -1,0 +1,33 @@
+关于 Sepolia testnet 的一些链接 
+
+https://scroll.io/portal -  添加网络
+https://scroll.io/bridge - 桥梁的链接 
+https://docs.scroll.io/en/user-guide/setup/ - 官方指南
+Scroll 生态一览：
+https://twitter.com/Scroll_CN/status/1694704840461717647
+这里领取水龙头:
+https://faucetlink.to/sepolia
+https://scroll.l2scan.co/faucet
+https://www.covalenthq.com/faucet/
+https://faucet.quicknode.com/scroll/sepolia
+目前可以使用的DAPP:
+AAVE：https://app.aave.com/
+Uniswap - https://uniswap-v3.scroll.io/#/swap
+Satori: https://zk-test.satori.finance/
+izumi: https://scroll.izumi.finance/home
+Rubic: https://testnet.rubic.exchange/?from=ETH&fromChain=GOERLI&toChain=SCROLL_SEPOLIA&amount=1&to=ETH
+Owlto - https://owlto.finance/bridge
+Zada - https://www.zadafinance.com/ 
+ScrolID（域名） - https://scrolid.com/
+Spacefi - https://app.spacefi.io/#/home
+Zeron - https://scroll.zeron.work/payments
+Zeron相关指南：https://docs.zeron.work/general/how-does-zeron-work/fixed-price-payment ）
+Omnisea: https://omnisea.tech/
+Omni Kingdoms - https://www.omnikingdoms.io/
+NFT Marketplace - https://www.testnet.zkmarkets.com/scroll-testnet
+omnisea - https://omnisea.tech/ 
+把scroll alpha的ETH 跨到 goerli使用这个链接：
+https://alpha--scroll-io.netlify.app/bridge.
+把goerli上的ETH跨到sepolia使用这个链接：
+https://rinkeby.orbiter.finance/?dest=Sepolia(G)&source=G?rli&sources=&dests=
+也可以使用这个链接吧goerli 和alpha上ETH跨到sepolia:https://testnet.symbiosis.finance/swap?amountIn=0.05&chainIn=Scroll%20Alpha&chainOut=Scroll%20Sepolia&tokenIn=ETH&tokenOut=ETH
